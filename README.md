@@ -1,3 +1,5 @@
+<img src="pack_icon.png" alt="Nostalgic Bedrock Texture" width="150"/>
+
 ![GitHub all releases](https://img.shields.io/github/downloads/HeXeRMC/NostalgicBedrockTexture/total?style=for-the-badge)  
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/HeXeRMC/NostalgicBedrockTexture?style=for-the-badge)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/HeXeRMC/NostalgicBedrockTexture?style=for-the-badge)  
