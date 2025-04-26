@@ -1,0 +1,15 @@
+//This JSON was modified by AgentMindStorm (@agentms_). Please do not use this document without permission.
+{
+  "menu_background/button_panel": {
+    "modifications": [
+      {
+        "control_name": "store_button_panel",
+        "operation": "remove"
+      },
+      {
+        "control_name": "server",
+        "operation": "remove"
+      }
+    ]
+  }
+}
