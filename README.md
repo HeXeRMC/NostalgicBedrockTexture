@@ -1,15 +1,13 @@
-# 📦 Nostalgia Texture Pack (Bedrock Edition)
-
-📝 Description
-A faithful update of Minecraft's classic textures, carefully maintained to preserve the original nostalgic style.
-New items and features have been retextured to match the iconic look, offering a seamless experience for players who love the old-school aesthetic.
-
-##🚀 Repository Status
-
 ![GitHub all releases](https://img.shields.io/github/downloads/HeXeRMC/NostalgicBedrockTexture/total?style=for-the-badge)  
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/HeXeRMC/NostalgicBedrockTexture?style=for-the-badge)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/HeXeRMC/NostalgicBedrockTexture?style=for-the-badge)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/HeXeRMC/NostalgicBedrockTexture?style=for-the-badge)
+
+# 📦 Nostalgia Texture Pack (Bedrock Edition)
+
+## 📝 Description
+A faithful update of Minecraft's classic textures, carefully maintained to preserve the original nostalgic style.
+New items and features have been retextured to match the iconic look, offering a seamless experience for players who love the old-school aesthetic.
 
 ## 📂 How to Use
 - Download the latest .mcpack release from the Releases page.
